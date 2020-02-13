@@ -1,6 +1,6 @@
 
-<b>About the Project</b>
-IN THIS SYSTEM I AM BUILDING A JAVA SYSTEM TO MANAGE AN AGRICULTURAL BUSINESS;  
+<b>About the Project</b>  
+IN THIS SYSTEM I AM BUILDING A JAVA SYSTEM TO MANAGE AN AGRICULTURAL BUSINESS   
 <b>Modules</b>
 <ol>
   <li>sign up</li>  
